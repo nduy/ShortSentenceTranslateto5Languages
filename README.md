@@ -17,4 +17,4 @@ node index.js
 **Port number is 2999**
 
 ### Example query:
-http://140.203.154.194:2999/?content=casa
+http://140.203.154.194:2999/?content=stella
