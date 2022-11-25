@@ -33,6 +33,10 @@ ga: "Mo bhaile",
 
 const express = require("express");
 const app = express();
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  next();
+});
 const PORT=2999;
 const translate = require('translate-google');
 
