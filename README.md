@@ -1,6 +1,9 @@
 # ShortSentenceTranslateto5Languages
 Underline: Google translate.
 
+### Initialize project
+npm init -y
+
 ### Install packages:
 
 #npm install express --save
