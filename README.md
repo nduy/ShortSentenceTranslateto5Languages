@@ -14,4 +14,4 @@ Run it:
 Port" 2999
 
 ### Example query:
- http://140.203.154.194:2999/?content=Io
+http://140.203.154.194:2999/?content=casa
