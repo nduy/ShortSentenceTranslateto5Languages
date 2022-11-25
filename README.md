@@ -6,8 +6,8 @@ npm init -y
 
 ### Install packages:
 
-#npm install express --save
-#npm install translate-google --save
+npm install express --save  <br />
+npm install translate-google --save
 
 Run it: 
 #node index.js
